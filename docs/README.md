@@ -119,18 +119,3 @@ Dùng API `Create User`, truyền vào `RoleIds` tương ứng với Admin. Ch�
 - Admin gọi API để lấy doanh thu theo thời gian `startDate`, `endDate`
 
 ---
-
-## 🧩 Entity Chi tiết
-
-> Nội dung chi tiết về tất cả entity đã được mô tả trong tài liệu gốc. Bạn có thể tách thành file `docs/entities.md` nếu muốn chia nhỏ README.
-
----
-
-## ⛳ Gợi ý
-
-Bạn có thể chia README này thành nhiều file nhỏ hơn trong thư mục `docs/` như:
-
-- `docs/entities.md`
-- `docs/api-guide.md`
-- `docs/order-process.md`
-- `docs/admin-panel.md`
